@@ -147,7 +147,7 @@ pip install -r requirements.txt
 
 # FastAPI 백엔드 실행 (python/ 디렉토리에서)
 uvicorn src.main:app --host 0.0.0.0 --port 8000 --reload
-
+```
 ### API Endpoints
 
 #### 서버 상태 확인
