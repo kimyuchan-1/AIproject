@@ -1,0 +1,9 @@
+index,feature_name
+29,SS_VU_tlag_2
+40,SS_VU_troll_mean_12
+53,SS_VU_tdiff_2
+57,SS_VU_tewma_6
+58,SS_VU_tewma_12
+59,SS_VU_tewma_24
+809,doy_sin
+810,doy_cos

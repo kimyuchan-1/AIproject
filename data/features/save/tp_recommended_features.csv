@@ -1,0 +1,11 @@
+index,feature_name
+26,TP_VU_tlag_2
+33,TP_VU_troll_mean_6
+35,TP_VU_troll_max_6
+50,TP_VU_tdiff_2
+51,TP_VU_tdiff_6
+53,TP_VU_tpct_6
+54,TP_VU_tewma_6
+271,SS_VU_roll_std_12
+380,TA_368_roll_mean_24
+766,RN_12H_541_lag_72steps
